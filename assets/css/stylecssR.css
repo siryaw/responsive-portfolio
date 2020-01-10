@@ -1,0 +1,44 @@
+img{
+   float: left;
+   margin-right: 10px;
+   width: 260px;
+   height: 200px;
+}
+
+.maintext {
+   margin: auto;
+   padding: auto;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+}
+
+
+.abouttext {
+   font-family: Arial, Helvetica, sans-serif;
+   color: #4aaaa5;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   border-top: 8px solid #4aaaa5;
+   background-color: grey;
+   color: white;
+   text-align: center;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.white-box {
+    float: center;
+    width: 100%;
+    padding: 30px;
+    margin: auto;
+    height: 458px;
+    background-color: white;
+    position: relative;
+    top: 50px;
