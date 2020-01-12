@@ -1,21 +1,13 @@
-img{
-   float: left;
-   margin-right: 10px;
-   width: 260px;
-   height: 200px;
+h3 {
+   font-family: Arial, Helvetica, sans-serif;
+   color: #4aaaa5;
 }
 
-.maintext {
+p {
    margin: auto;
    padding: auto;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 14px;
-}
-
-
-.abouttext {
-   font-family: Arial, Helvetica, sans-serif;
-   color: #4aaaa5;
 }
 
 .footer {
@@ -29,6 +21,14 @@ img{
    text-align: center;
 }
 
- .demopara {
-    line-height: 2;
+
+h1{
+	background-color: #4aaaa5;
+	color: #fff;
+	margin: 0;
+	padding: 20px 30px;
+}
+
+.content {
+	background-color: #fff;
 }
