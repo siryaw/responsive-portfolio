@@ -1,0 +1,51 @@
+body {
+    background-image: url(../ResponsivePortfolio/assets/images/concrete_seamless.png);
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: #fff;
+    padding: 20px 30px;
+    margin: 0;
+}
+.navbar {
+    background-color: #fff;
+}
+
+.nav-link {
+    color: #777777;
+}
+
+h3 {
+    color: #4aaaa5;
+}
+
+.container.content {
+    background-color: #fff;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    width: 260px;
+    height: 200px;
+ }
+
+ .maintext {
+    margin: auto;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+ }
+
+ .btn-primary {
+     background-color: #4aaaa5;
+ }
+
+ footer.container-fluid {
+    background-color: #666666;
+    color: #fff;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
