@@ -1,5 +1,5 @@
 body {
-    background-image: url(../ResponsivePortfolio/assets/images/concrete_seamless.png);
+    background-image: url("../images/concrete_seamless.png");
 }
 
 .navbar-brand {
@@ -49,3 +49,4 @@ img {
     position: fixed;
     bottom: 0;
     width: 100%;
+ }
